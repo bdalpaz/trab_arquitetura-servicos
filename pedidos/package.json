@@ -1,0 +1,12 @@
+{
+  "name": "servico-pedidos",
+  "version": "1.0.0",
+  "description": "Serviço B - cria pedidos consumindo o Serviço A (porta 3001)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
